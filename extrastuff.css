@@ -1,0 +1,24 @@
+/*xTRA LOVE*/
+td a[href="/anime/15051/Love_Live!_School_Idol_Project"] {
+background-image: url("http://i.imgur.com/HhQsgeg.png");
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-position: right top;
+background-color: transparent;
+padding-bottom: 50px;
+padding-right: 300px !important;
+color: !important;
+}
+
+
+/*xTRA COLOURS*/
+/*BOKU NO PICO*/
+.animetitle[href*="anime/1639/"] {
+color: red !important;
+}
+
+
+/*WALLPAPER STRETCHING*/
+body {
+background-size: cover !important;
+}
